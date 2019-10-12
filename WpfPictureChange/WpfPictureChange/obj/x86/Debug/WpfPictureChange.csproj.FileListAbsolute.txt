@@ -1,0 +1,33 @@
+D:\资料\代码程序\visual studio 2010\Projects\WpfPictureChange\WpfPictureChange\bin\Debug\WpfPictureChange.exe
+D:\资料\代码程序\visual studio 2010\Projects\WpfPictureChange\WpfPictureChange\bin\Debug\WpfPictureChange.pdb
+D:\资料\代码程序\visual studio 2010\Projects\WpfPictureChange\WpfPictureChange\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\资料\代码程序\visual studio 2010\Projects\WpfPictureChange\WpfPictureChange\obj\x86\Debug\MainWindow.baml
+D:\资料\代码程序\visual studio 2010\Projects\WpfPictureChange\WpfPictureChange\obj\x86\Debug\PictureChangeUserControl.baml
+D:\资料\代码程序\visual studio 2010\Projects\WpfPictureChange\WpfPictureChange\obj\x86\Debug\MainWindow.g.cs
+D:\资料\代码程序\visual studio 2010\Projects\WpfPictureChange\WpfPictureChange\obj\x86\Debug\PictureChangeUserControl.g.cs
+D:\资料\代码程序\visual studio 2010\Projects\WpfPictureChange\WpfPictureChange\obj\x86\Debug\App.g.cs
+D:\资料\代码程序\visual studio 2010\Projects\WpfPictureChange\WpfPictureChange\obj\x86\Debug\WpfPictureChange_MarkupCompile.cache
+D:\资料\代码程序\visual studio 2010\Projects\WpfPictureChange\WpfPictureChange\obj\x86\Debug\WpfPictureChange.g.resources
+D:\资料\代码程序\visual studio 2010\Projects\WpfPictureChange\WpfPictureChange\obj\x86\Debug\WpfPictureChange.Properties.Resources.resources
+D:\资料\代码程序\visual studio 2010\Projects\WpfPictureChange\WpfPictureChange\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\资料\代码程序\visual studio 2010\Projects\WpfPictureChange\WpfPictureChange\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\资料\代码程序\visual studio 2010\Projects\WpfPictureChange\WpfPictureChange\obj\x86\Debug\WpfPictureChange.exe
+D:\资料\代码程序\visual studio 2010\Projects\WpfPictureChange\WpfPictureChange\obj\x86\Debug\WpfPictureChange.pdb
+D:\资料\代码程序\visual studio 2010\Projects\WpfPictureChange\WpfPictureChange\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\资料\代码程序\visual studio 2010\Projects\WpfPictureChange\WpfPictureChange\obj\x86\Debug\WpfPictureChange_MarkupCompile.lref
+C:\Users\鑫银泰\Downloads\WpfPictureChange\WpfPictureChange\bin\Debug\WpfPictureChange.exe
+C:\Users\鑫银泰\Downloads\WpfPictureChange\WpfPictureChange\bin\Debug\WpfPictureChange.pdb
+C:\Users\鑫银泰\Downloads\WpfPictureChange\WpfPictureChange\obj\x86\Debug\WpfPictureChange.csprojResolveAssemblyReference.cache
+C:\Users\鑫银泰\Downloads\WpfPictureChange\WpfPictureChange\obj\x86\Debug\PictureChangeUserControl.baml
+C:\Users\鑫银泰\Downloads\WpfPictureChange\WpfPictureChange\obj\x86\Debug\MainWindow.g.cs
+C:\Users\鑫银泰\Downloads\WpfPictureChange\WpfPictureChange\obj\x86\Debug\PictureChangeUserControl.g.cs
+C:\Users\鑫银泰\Downloads\WpfPictureChange\WpfPictureChange\obj\x86\Debug\App.g.cs
+C:\Users\鑫银泰\Downloads\WpfPictureChange\WpfPictureChange\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\鑫银泰\Downloads\WpfPictureChange\WpfPictureChange\obj\x86\Debug\WpfPictureChange_MarkupCompile.cache
+C:\Users\鑫银泰\Downloads\WpfPictureChange\WpfPictureChange\obj\x86\Debug\WpfPictureChange_MarkupCompile.lref
+C:\Users\鑫银泰\Downloads\WpfPictureChange\WpfPictureChange\obj\x86\Debug\MainWindow.baml
+C:\Users\鑫银泰\Downloads\WpfPictureChange\WpfPictureChange\obj\x86\Debug\WpfPictureChange.g.resources
+C:\Users\鑫银泰\Downloads\WpfPictureChange\WpfPictureChange\obj\x86\Debug\WpfPictureChange.Properties.Resources.resources
+C:\Users\鑫银泰\Downloads\WpfPictureChange\WpfPictureChange\obj\x86\Debug\WpfPictureChange.csproj.GenerateResource.Cache
+C:\Users\鑫银泰\Downloads\WpfPictureChange\WpfPictureChange\obj\x86\Debug\WpfPictureChange.exe
+C:\Users\鑫银泰\Downloads\WpfPictureChange\WpfPictureChange\obj\x86\Debug\WpfPictureChange.pdb

@@ -1,0 +1,31 @@
+﻿<Window x:Class="Zmy.Wpf.CMessageBox.TestWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="TestWindow" Height="300" Width="300">
+    <WrapPanel>
+        <Button Content="显示普通框" Height="40" Width="200" Click="Button_Click"/>
+
+        <Button Content="OKCancel" Height="40" Width="200" Click="ButtonOKCancel_Click"/>
+
+        <Button Content="YESNO" Height="40" Width="200" Click="ButtonYesNo_Click"/>
+
+        <Button Content="YENOCANCEL" Height="40" Width="200" Click="ButtonYesNoCancel_Click"/>
+
+        <Button Content="OK_OKDefault" Height="40" Width="200" Click="ButtonOK_OKDefault_Click"/>
+
+        <Button Content="OKCancel_OKDefault" Height="40" Width="200" Click="OKCancel_OKDefault_Click"/>
+
+        <Button Content="OKCancel_CancelDefault" Height="40" Width="200" Click="OKCancel_CancelDefault_Click"/>
+
+        <Button Content="YesNo_YesDefault" Height="40" Width="200" Click="YesNo_YesDefault_Click"/>
+
+        <Button Content="YesNo_NoDefault" Height="40" Width="200" Click="YesNo_NoDefault_Click"/>
+
+        <Button Content="YesNoCancel_YesDefault" Height="40" Width="200" Click="YesNoCancel_YesDefault_Click"/>
+
+        <Button Content="YesNoCancel_NoDefault" Height="40" Width="200" Click="YesNoCancel_NoDefault_Click"/>
+
+        <Button Content="YesNoCancel_CancelDefault" Height="40" Width="200" Click="YesNoCancel_CancelDefault_Click"/>
+
+    </WrapPanel>
+</Window>

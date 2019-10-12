@@ -1,0 +1,9 @@
+﻿<Window x:Class="WpfPictureChange.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:WpfPictureChange"
+        Title="MainWindow" Height="195" Width="335">
+    <Grid>
+        <local:PictureChangeUserControl/>
+    </Grid>
+</Window>
